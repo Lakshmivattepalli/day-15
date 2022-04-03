@@ -1,0 +1,16 @@
+E:\RFP assignments\day-15\hashtableuc-1\bin\Debug\net5.0\hashtableuc-1.exe
+E:\RFP assignments\day-15\hashtableuc-1\bin\Debug\net5.0\hashtableuc-1.deps.json
+E:\RFP assignments\day-15\hashtableuc-1\bin\Debug\net5.0\hashtableuc-1.runtimeconfig.json
+E:\RFP assignments\day-15\hashtableuc-1\bin\Debug\net5.0\hashtableuc-1.runtimeconfig.dev.json
+E:\RFP assignments\day-15\hashtableuc-1\bin\Debug\net5.0\hashtableuc-1.dll
+E:\RFP assignments\day-15\hashtableuc-1\bin\Debug\net5.0\hashtableuc-1.pdb
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\hashtableuc-1.csproj.AssemblyReference.cache
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\hashtableuc-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\hashtableuc-1.AssemblyInfoInputs.cache
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\hashtableuc-1.AssemblyInfo.cs
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\hashtableuc-1.csproj.CoreCompileInputs.cache
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\hashtableuc-1.dll
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\refint\hashtableuc-1.dll
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\hashtableuc-1.pdb
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\hashtableuc-1.genruntimeconfig.cache
+E:\RFP assignments\day-15\hashtableuc-1\obj\Debug\net5.0\ref\hashtableuc-1.dll
